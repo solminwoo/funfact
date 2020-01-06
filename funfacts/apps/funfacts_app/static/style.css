@@ -1,0 +1,16 @@
+*{
+    margin: 0px auto;
+}
+
+.container{
+    vertical-align: middle;
+    width:500px;
+    margin:0px auto;
+}
+.some{
+    width: 200px;
+}
+
+.center{
+    text-align: center;
+}
